@@ -6,6 +6,7 @@ This repository contains the final assignment for the **Medical Image Processing
 
 ## Features
 
+- Place the images in the `data` folder for better organization.
 - DICOM image loading using `pydicom` and header exploration
 - Visualization of 2D slices and 3D volumes
 - Basic 3D segmentation using Region Growing
